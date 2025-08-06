@@ -45,6 +45,6 @@ This script helps you:
 
 ---
 
-## 👩‍💻 Made with ❤️ by Shravani
+## 👩‍💻 Made by Shravani
 
 Feel free to fork, star, or contribute!
