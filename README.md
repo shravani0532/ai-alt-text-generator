@@ -14,14 +14,6 @@ This script helps you:
 
 ---
 
-## 📂 Project Structure
-ai-alt-text-generator/
-│
-├── ai_alt_text_generator.ipynb # Main notebook
-├── product_keywords.csv # List of product keywords
-├── images/ # Folder containing input images (.jpg/.png)
-└── ai_alt_text_report.csv # Output file with new names and alt-text
-
 ---
 
 ## 🚀 How to Use
